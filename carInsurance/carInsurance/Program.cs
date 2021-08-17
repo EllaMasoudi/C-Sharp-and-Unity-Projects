@@ -21,10 +21,10 @@ namespace carInsurance
 
             Console.WriteLine("Qualified?");
 
-            bool isQualified = age >= 15 && noDUI=true && ticket =< 3;
-            
+            bool isQualified = age >= 15 && noDUI == false && ticket <= 3;
+
             Console.WriteLine(isQualified);
-            
+
             Console.ReadLine();
         }
     }
