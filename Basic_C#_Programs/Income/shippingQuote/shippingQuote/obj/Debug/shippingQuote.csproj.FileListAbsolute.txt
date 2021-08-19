@@ -1,0 +1,7 @@
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe.config
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\bin\Debug\shippingQuote.pdb
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.AssemblyReference.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\obj\Debug\shippingQuote.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Income\shippingQuote\shippingQuote\obj\Debug\shippingQuote.pdb
