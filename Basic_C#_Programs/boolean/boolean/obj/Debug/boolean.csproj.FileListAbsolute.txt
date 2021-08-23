@@ -1,0 +1,7 @@
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\obj\Debug\boolean.csproj.AssemblyReference.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\obj\Debug\boolean.csproj.CoreCompileInputs.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\bin\Debug\boolean.exe.config
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\bin\Debug\boolean.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\bin\Debug\boolean.pdb
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\obj\Debug\boolean.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\boolean\boolean\obj\Debug\boolean.pdb
