@@ -13,6 +13,11 @@ namespace boolean
             Console.WriteLine("How many legs spiders have?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = false;
+          while (number >= 20)
+            {
+                Console.WriteLine("That is not correct!");
+                break;
+            }
             do
             {
                 switch (number)
@@ -33,7 +38,7 @@ namespace boolean
                         break;
                     default:
                         Console.WriteLine("You are wrong!");
-                        Console.WriteLine("Guess a number");
+                        Console.WriteLine("Guess another number");
                         number = Convert.ToInt32(Console.ReadLine());
                         break;
 
