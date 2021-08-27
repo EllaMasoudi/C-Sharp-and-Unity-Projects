@@ -1,0 +1,7 @@
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe.config
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\bin\Debug\GameTwentyOne.pdb
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.AssemblyReference.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\GameTwentyOne\GameTwentyOne\obj\Debug\GameTwentyOne.pdb
