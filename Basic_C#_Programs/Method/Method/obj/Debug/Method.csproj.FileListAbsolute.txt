@@ -1,0 +1,7 @@
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\bin\Debug\Method.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\bin\Debug\Method.pdb
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.pdb
