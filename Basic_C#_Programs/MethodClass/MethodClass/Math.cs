@@ -10,7 +10,8 @@ namespace MethodClass
     {
         public void Calculate(int num1, int num2)
         {
-            num1 = num1 + 1;
+            int result = num1 + 1;
+            Console.WriteLine(result);
             Console.WriteLine(num2);
 
         }
