@@ -11,8 +11,20 @@ namespace ClassAssignment
         public void Calculate(int num, out int result)
             {
            
-            result = 10;
+            result = num /2;
 
+        }
+
+        public void methodWithOutputParameters(out int result1, out int result2)
+        {
+            result1 = 1;
+            result2 = 2;
+        }
+
+        public void methodWithOutputParameters(out int result1, out int result2, int x)
+        {
+            result1 = x;
+            result2 = 2;
         }
     }
 }

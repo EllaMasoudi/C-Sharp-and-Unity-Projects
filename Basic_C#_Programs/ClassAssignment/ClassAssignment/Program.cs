@@ -12,11 +12,16 @@ namespace ClassAssignment
         {
             Math math = new Math();
             Console.WriteLine("Please enter a number");
-            int userInput = Convert.ToInt32(Console.ReadLine());
-            int r;
-            int j = 5;
-            math.Calculate(userInput, out j);
+
+            int num = Convert.ToInt32(Console.ReadLine());
+
+            int j;
+            math.Calculate(num, out j);
             Console.WriteLine(j);
+
+            Console.WriteLine("This is the result of a static class:" + StaticClass.Addition(2, 3));
+
+
             Console.ReadLine();
 
         }
