@@ -12,10 +12,11 @@ namespace MethodClass
         {
             Math math = new Math();
             math.Calculate(3,1);
-            int a = 12;
-            int b = 6;
-            math.Calculate(a, b);
+            
+            math.Calculate(num1:10, num2: 2);
+            Console.ReadLine();
         }
+        
         
     }
 }
