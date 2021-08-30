@@ -1,0 +1,7 @@
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\Elham\Documents\GitHub\C-Sharp-and-Unity-Projects\Basic_C#_Programs\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
