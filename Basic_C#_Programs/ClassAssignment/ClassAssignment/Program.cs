@@ -17,6 +17,7 @@ namespace ClassAssignment
 
             int j;
             math.Calculate(num, out j);
+
             Console.WriteLine(j);
 
             Console.WriteLine("This is the result of a static class:" + StaticClass.Addition(2, 3));
