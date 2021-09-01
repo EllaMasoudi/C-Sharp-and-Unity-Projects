@@ -6,14 +6,20 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-  public  class Employee: Person, IQuittable
+  public  class Employee<T>: Person, IQuittable
     {
-        
-        
-        public int Id;
-       
 
-        public static Boolean operator ==(Employee e1, Employee e2)
+        //public Employee(string fname, string lname, int id)
+        //{
+        //    this.FirstName = fname;
+        //    this.LastName = lname;
+        //    this.Id = id;
+        //}
+        public List<T> Things { get; set; }
+
+        public int Id;
+      
+        public static Boolean operator ==(Employee<T> e1, Employee<T> e2)
         {
             if (e1.Id == e2.Id)
             {
@@ -22,7 +28,7 @@ namespace Abstract
             return false;
         }
 
-        public static Boolean operator !=(Employee e1, Employee e2)
+        public static Boolean operator !=(Employee<T> e1, Employee<T> e2)
         {
             if (e1.Id == e2.Id)
             {
@@ -30,12 +36,7 @@ namespace Abstract
             }
             return true;
         }
-        public Employee(string fname, string lname, int id)
-        {
-            this.FirstName = fname;
-            this.LastName = lname;
-            this.Id = id;
-        }
+
         
         
         public override void sayName()
