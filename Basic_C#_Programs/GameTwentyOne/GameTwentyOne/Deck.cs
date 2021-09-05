@@ -29,5 +29,9 @@ namespace GameTwentyOne
 
         }
         public List<Card> Cards { get; set; }
+        public static Deck Shauffle(Deck deck, out int timesShuffled, int times = 1)
+        {
+            times
+        }
     }
 }
