@@ -11,12 +11,14 @@ namespace datetimeAssignment
     {
         static void Main(string[] args)
         {
-           Console.WriteLine(DateTime.Now);
-          
-            Console.WriteLine("Please enter a number");
-           int userInput = Convert.ToInt32(Console.ReadLine());
+            
             Console.WriteLine(DateTime.Now);
-                Console.WriteLine(userInput);
+          
+            Console.WriteLine("Please enter a number 0 to 24");
+            int userInput = Convert.ToInt32(Console.ReadLine());
+            System.TimeSpan tSpan = new System.TimeSpan(userInput, 0,0);
+            System.DateTime result = DateTime.Now + tSpan;
+            Console.WriteLine(result);
             Console.ReadLine();
         }
     }
