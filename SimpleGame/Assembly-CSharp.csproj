@@ -54,6 +54,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player_movement.cs" />
+    <Compile Include="Assets\WinLoose.cs" />
+    <Compile Include="Assets\PlayerTriggers.cs" />
+    <Compile Include="Assets\Goal.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
